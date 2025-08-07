@@ -1,0 +1,59 @@
+site_name: Instructivo PrayCrew
+theme:
+  name: material
+  extra_css:
+  - assets/stylesheets/extra.css
+
+
+nav:
+  - Registro:
+      - Registro con Android: registro-android.md
+      - Registro con Apple: registro-apple.md
+  - Validar cuenta: validar-cuenta.md
+
+    
+  - Iniciar sesión:
+    - Iniciar sesión con Usuario y Contraseña: login-usuario-clave.md
+    - Iniciar sesión con Google: login-google.md
+    - Iniciar sesión con Apple: login-apple.md
+    - Iniciar sesión con Android: login-android.md
+  - Mi Lista: mi-lista.md
+  - Métricas:
+      - Métricas personales: metricas-personales.md
+      - Métricas compartido conmigo: metricas-compartido.md
+  - Grupos de Oración:
+      - Lista de grupos: lista-grupos.md
+      - Lista de oraciones de grupo: lista-oraciones-grupo.md
+      - Recordando de grupo: recordando-grupo.md
+      - Métricas de grupo: metricas-grupo.md
+      - Agregar oración a grupo: agregar-oracion-grupo.md
+      - Invitar miembros: invitar-miembros.md
+      - Miembros y roles: miembros-roles.md
+      - Solicitudes de membresía: solicitudes-membresia.md
+      - Configuración: configuracion-grupo.md
+      - QR compartir: qr-compartir.md
+  - Nuevo grupo (4 pasos): nuevo-grupo.md
+  - Recordatorios:
+      - Recordando por mes: recordando-mes.md
+      - Recordando año completo: recordando-anio.md
+  - Ver Oración:
+      - Orar: orar.md
+      - Lista de personas que han orado: lista-personas-orado.md
+      - Comentar: comentar.md
+      - Responder: responder.md
+      - Update: update.md
+      - Respuesta de Dios: respuesta-dios.md
+      - Like comentario: like-comentario.md
+  - Chat:
+      - Chat de grupo: chat-grupo.md
+      - Chat con amigos: chat-amigos.md
+  - Códigos QR:
+      - QR personal: qr-personal.md
+      - QR grupo: qr-grupo.md
+  - Menú Más: menu-mas.md
+  - Notificaciones: notificaciones.md
+  - Oración guiada: oracion-guiada.md
+  - Amigos:
+      - Lista de mis amigos: lista-amigos.md
+      - Solicitudes de amistad: solicitudes-amistad.md
+
