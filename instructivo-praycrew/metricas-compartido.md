@@ -28,19 +28,19 @@ Este panel muestra tus métricas **sobre oraciones que otros te compartieron**. 
 
 
 ![Cards de métricas compartidas](img/metrics-shared-cards.jpg)  
-*Created, Active, Answered, Archived.*
+*Creadas, activas, contestadas, archivadas.*
 
 ![Answered prayer rate y compliance](img/metrics-shared-donut-compliance.jpg)  
-*Donut “Answered prayer rate” + “30 days average compliance”.*
+* “Porcentaje de oraciones contestadas + “Cumplimiento promedio de los ultimos 30 días”.*
 
 ![Daily Prayer Completion](img/metrics-shared-daily-completion.jpg)  
-*Serie “Daily Prayer Completion (last 30 days)”.*
+Cumplimiento diario (ultimos 30 días)”.*
 
-![Categorías y KPIs](img/metrics-shared-category-kpis.jpg)  
+<!--![Categorías y KPIs](img/metrics-shared-category-kpis.jpg)  
 *Prayers by category and status + Times I prayed for others + People who I prayed for.*
 
 ![Answered últimos 12 meses](img/metrics-shared-answered-12m.jpg)  
-*Answered prayers (last 12 months).*
+*Answered prayers (last 12 months).* -->
 
 ---
 

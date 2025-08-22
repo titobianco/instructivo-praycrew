@@ -26,7 +26,7 @@ Esta opción permite acceder a la plataforma PrayCrew utilizando las credenciale
 *Pantalla de inicio de sesión con usuario y contraseña (Android).*
 
 ![Error credenciales](img/login-usuario-error.jpg)  
-*Mensaje “User or password incorrect” cuando las credenciales no coinciden.*
+*Mensaje “Usuario o contraseña incorrectos” cuando las credenciales no coinciden.*
 
 
 ---

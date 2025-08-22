@@ -1,4 +1,4 @@
-# Update
+# Actualización
 
 Publica una **actualización de estado** sobre la oración (avance, novedades).
 

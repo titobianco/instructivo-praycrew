@@ -35,10 +35,16 @@ En la versión actual de la app PrayCrew para dispositivos Android, los métodos
 
 ## Capturas de pantalla
 **Pantalla inicial**
+
 ![Pantalla inicial - Android](img/registro-correo-paso1.jpg)
 
 **Formulario de registro**
+
 ![Formulario de registro - Android](img/registro-correo-paso2.jpg)
 
-**Confirmación de cuenta creada**
-![Confirmación de cuenta creada - Android](img/registro-correo-paso3.jpg)
+<!-- !**Confirmación de cuenta creada**-->
+<!-- ![Confirmación de cuenta creada - Android](img/registro-correo-paso3.jpg) -->
+
+
+ 
+

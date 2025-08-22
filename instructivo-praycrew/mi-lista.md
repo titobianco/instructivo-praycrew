@@ -24,15 +24,13 @@ Esta sección muestra todas las oraciones que has enviado o marcado para seguimi
 
 ## Capturas de pantalla
 
-<!--
-Estas imágenes deberás capturarlas y subir a `docs/img/`
--->
+
 
 ![Vista de Mi Lista](img/mi-lista-vista.jpg)  
 *Vista completa de la sección “Mi Lista”.*
 
 ![Acciones en la oración](img/mi-lista-acciones.jpg)  
-*Opciones de marcar finalizada, editar y eliminar.*
+*Opciones de marcar como contestada, comentar, editar, ver historial y archivar.*
 
 ---
 
@@ -41,5 +39,5 @@ Estas imágenes deberás capturarlas y subir a `docs/img/`
 | Error                       | Motivo                             | Solución                                           |
 |-----------------------------|------------------------------------|----------------------------------------------------|
 | Lista vacía                 | No has enviado ninguna oración     | Envía tu primera petición desde “Agregar oración”. |
-| Error al marcar finalizada  | Error de red o sesión expirada     | Recarga la página e inicia sesión de nuevo.        |
+| Error al marcar "Contestada | Error de red o sesión expirada     | Recarga la página e inicia sesión de nuevo.        |
 | Error al editar/eliminar    | Sesión expirada o recurso no encontrado | Verifica tu sesión o recarga la página.            |

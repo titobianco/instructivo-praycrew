@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+# Bienvenido a PrayCrew
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+PrayCrew es una plataforma digital diseñada para fortalecer la vida espiritual y la conexión entre comunidades de fe.  
+Su objetivo principal es brindar un espacio donde las personas puedan organizar grupos de oración, compartir intenciones, recibir recordatorios y acceder a métricas que impulsen el crecimiento personal y comunitario.  
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+A través de PrayCrew, iglesias y grupos de oración cuentan con una herramienta sencilla e intuitiva para gestionar sus actividades, fomentar la participación y mantener a todos sus miembros conectados en cualquier momento y lugar.
