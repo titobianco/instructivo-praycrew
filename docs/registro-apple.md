@@ -36,14 +36,17 @@ En la versión actual de la app PrayCrew para dispositivos iOS, los métodos de 
 ---
 
 ## Capturas de pantalla
+
 **Pantalla inicial**
+
 ![Pantalla inicial - iOS](img/registro-ios-paso1.jpg)
 
 **Formulario de registro**
+
 ![Formulario de registro - iOS](img/registro-ios-paso2.jpg)
 
-**Selección de cuenta Gmail**
-![Selección de cuenta Gmail - iOS](img/registro-ios-paso3.jpg)
+<!-- **Selección de cuenta Gmail**
+![Selección de cuenta Gmail - iOS](img/registro-ios-paso3.jpg) -->
 
-**Confirmación de cuenta creada**
-![Confirmación de cuenta creada - iOS](img/registro-ios-paso4.jpg)
+<!-- **Confirmación de cuenta creada**
+![Confirmación de cuenta creada - iOS](img/registro-ios-paso4.jpg) -->

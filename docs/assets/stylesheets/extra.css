@@ -2,3 +2,14 @@ img {
     max-width: 250px;
     height: auto;
 }
+
+/* Cambiar color de la barra superior */
+.md-header {
+    background-color: #244151 !important;
+}
+
+/* Cambiar color de los tabs (si se usan) */
+.md-tabs {
+    background-color: #244151 !important;
+}
+
