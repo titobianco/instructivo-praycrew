@@ -1,0 +1,17 @@
+img {
+    max-width: 250px;
+    height: auto;
+}
+
+:root {
+  /* Color principal (PrayCrew) */
+  --md-primary-fg-color:        #244151;
+  --md-primary-fg-color--light: #3a5b70; /* opcional, versión más clara */
+  --md-primary-fg-color--dark:  #182c3b; /* opcional, versión más oscura */
+
+  /* Color de acento (puede ser el mismo o uno complementario) */
+  --md-accent-fg-color: #244151;
+
+  /* Links */
+  --md-typeset-a-color: #244151;
+}
