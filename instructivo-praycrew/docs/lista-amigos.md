@@ -15,9 +15,9 @@ Desde aquí puedes interactuar de forma directa con ellos, iniciar conversacione
 - **Eliminar amigo**: Quita el contacto de tu lista (esta acción es irreversible).
 
 ### Captura de pantalla
-![Acceso a lista de amigos](/img/acceso-amigos.jpg)
+![Acceso a lista de amigos](img/acceso-amigos.jpg)
 
-![Lista de mis amigos](/img/lista-amigos.jpg)
+![Lista de mis amigos](img/lista-amigos.jpg)
 
 ### Errores comunes
 

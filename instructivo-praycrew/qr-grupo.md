@@ -22,4 +22,4 @@ Es una herramienta útil para promover el grupo en eventos, redes sociales o act
 
 
 ### Capturas de pantalla
-![QR grupo](/img/qr-grupo.jpg)
+![QR grupo](img/qr-grupo.jpg)

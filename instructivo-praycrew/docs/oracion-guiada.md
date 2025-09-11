@@ -16,9 +16,9 @@ Permite meditar en atributos de Dios y seguir un hilo de oración estructurado, 
 4. Utiliza esta guía como apoyo para tus oraciones personales o para dirigir un tiempo de oración grupal.
 
 ### Capturas de pantalla
-![Oración guiada - acceso](/img/oracion-guiada-acceso.jpg)
+![Oración guiada - acceso](img/oracion-guiada-acceso.jpg)
 
-![Oración guiada - contenido](/img/oracion-guiada-contenido.jpg)
+![Oración guiada - contenido](img/oracion-guiada-contenido.jpg)
 
 ### Errores comunes
 

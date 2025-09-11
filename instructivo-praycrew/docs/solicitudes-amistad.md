@@ -15,15 +15,15 @@ Desde aquí puedes aceptar nuevas amistades, rechazarlas o cancelar solicitudes 
 - **Cancelar solicitud enviada**: Retira una invitación que enviaste y que aún no fue respondida.
 
 ### Captura de pantalla
-![Acceso a solicitudes de amistad](../img/accesos-solicitudes-amistad.jpg)
+![Acceso a solicitudes de amistad](img/accesos-solicitudes-amistad.jpg)
 
-![Solicitudes de amistad](../img/solicitudes-amistad.jpg)
+![Solicitudes de amistad](img/solicitudes-amistad.jpg)
 
-![Eliminar amigo](/img/eliminar-amigo.jpg)
+![Eliminar amigo](img/eliminar-amigo.jpg)
 
-![Solicitud de amistad](/img/solicitud-amistad.jpg)
+![Solicitud de amistad](img/solicitud-amistad.jpg)
 
-![Enviar solicitud de amistad](/img/enviar-solicitud-amistad.jpg)
+![Enviar solicitud de amistad](img/enviar-solicitud-amistad.jpg)
 
 ### Errores comunes
 

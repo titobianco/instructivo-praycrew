@@ -21,6 +21,6 @@ Esta funcionalidad agiliza la conexión entre usuarios, evitando la necesidad de
 - Solo usuarios autenticados pueden generar o escanear códigos QR.
 
 ### Capturas de pantalla
-![QR personal](/img/qr-personal.jpg)
+![QR personal](img/qr-personal.jpg)
 
-![QR enlace](/img/qr-enlace.jpg)
+![QR enlace](img/qr-enlace.jpg)

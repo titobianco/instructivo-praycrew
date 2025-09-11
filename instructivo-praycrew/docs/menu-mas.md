@@ -29,4 +29,4 @@ El Menú Más puede incluir, entre otros, los siguientes accesos:
 - **No puedo cerrar sesión**: Si el botón Logout no responde, asegúrate de tener conexión a internet y vuelve a intentarlo.
 
 ### Captura de pantalla
-![Menú Más](/img/menu-mas.jpg)
+![Menú Más](img/menu-mas.jpg)

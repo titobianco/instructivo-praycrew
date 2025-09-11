@@ -27,6 +27,6 @@ Aquí el usuario puede mantenerse informado sobre nuevas interacciones, actualiz
 
 
 ### Captura de pantalla
-![Notificaciones](/img/notificaciones.jpg)
+![Notificaciones](img/notificaciones.jpg)
 
-![Notificaciones](/img/notificaciones-menu-mas.jpg)
+![Notificaciones](img/notificaciones-menu-mas.jpg)
